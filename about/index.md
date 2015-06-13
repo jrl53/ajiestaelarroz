@@ -10,7 +10,7 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Ají está el arroz es una iniciativa de Jose León, Lucía Yglesias y su madre Giuliana Fedeli. Queremos crer un espacio para compartir un poco de la comida peruana que se hace aqui en Costa Rica con ingredientes ticos. 
+Ají está el arroz es una iniciativa de Jose León, Lucía Yglesias y su madre Giuliana Fedeli. Queremos crer un espacio para compartir un poco de la comida peruana que se hace aqui en Costa Rica.
 
 También es una oportunidad para Lucía y Jose de aprender de doña Giuly, antes de embarcarse cada uno en su MBA donde tendrán que cocinarse ellos mismos. 
 
