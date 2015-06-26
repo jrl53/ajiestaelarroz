@@ -2,14 +2,14 @@
 
 title:            Aji esta el arroz
 locale:           en_US
-url:              /ajiestaelarroz
+url:              www.ajiestaelarroz.com
 
 
 # Jekyll configuration
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-
+highlighter: 
 sass:
   sass_dir: _sass
   style: compressed

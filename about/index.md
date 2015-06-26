@@ -44,4 +44,8 @@ Espero disfruten tanto como nosotros lo que estamos haciendo.
     <p>Sous-chef, su-fotógrafo, su-diseñador-web</p>
 </div>
 
+La gente que me conoce sabe que me gusta comer de todo, a cualquier hora. Sin embargo esta cualidad no me quita credenciales para distinguir la buena comida... y la comida peruana es la mejor que he probado. 
 
+Siempre me ha gustado cocinar, pero eso no quiere decir que lo haga muy a menudo, ni que lo haga bien. Por eso quiero aprender a cocinar lo más que pueda de doña Giuly y su excelente cuchara, y a la vez poder compartir con todos los que por alguna razón llegaron a este rincón de las interwebs.
+
+Este espacio me da también la oportunidad de hacer algo en *casi* todas mis pasiones: comida, fotografía y tecnología. Solo falta la música. Pero la verdad es que pensándolo bien, el acto de crear comida en conjunto engloba muchas de las características que me atraen de hacer música con otra gente: se puede improvisar nuevas piezas, se necesita buena comunicación, y lo más importante.. sabe más rico si se comparte.
