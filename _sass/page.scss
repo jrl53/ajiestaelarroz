@@ -6,6 +6,12 @@ body {
 	background-color: $bodycolor;
 	font-family: $base-font;
 	color: $text-color;
+    p {
+        /*Added by J Leon*/
+        line-height: $body-line-height;
+        font-size: $body-font-size;
+        margin-bottom: 2em;
+    }
 }
 
 /* 
@@ -337,7 +343,8 @@ $button-size: 1.5rem;
 	font-size: 80%;
 }
 .article-author-side,
-.article-author-bottom {
+.article-author-bottom,
+.article-author-center{
 	h3 {
 		margin-bottom: 0;
 	}
@@ -372,13 +379,25 @@ $button-size: 1.5rem;
 
 /*Prueba para about page*/
 .bio-photo {
-		max-width: 200px;
-		@include rounded(250px);
-        margin-left: auto;
-        margin-right: auto;
-        display: block;
-	}
+    max-width: 200px;
+    @include rounded(250px);
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
 
+.article-author-center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+    .bio-photo {
+        max-width: 200px;
+        @include rounded(250px);
+    
+    }
+}
 
 /* Author sidebar */
 .article-author-side {

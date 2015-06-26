@@ -9,10 +9,15 @@
 $doc-font-size: 16;
 $doc-line-height: 26;
 $paragraph-indent: true !default;
-$base-font: 'PT Serif', serif;
-$heading-font: 'PT Sans Narrow', sans-serif;
+$base-font: 'Open Sans','PT Serif', serif;
+$heading-font: Bitter, 'PT Sans Narrow', sans-serif;
 $code-font: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
 $alt-font: $base-font;
+/*Added by J Leon*/
+$body-line-height: 200%;
+$body-font-size: 17px;
+$heading-color: #111;
+/********/
 
 /* 
    Colors
@@ -20,7 +25,7 @@ $alt-font: $base-font;
 
 $bodycolor      : #fff;
 $body-color     : $bodycolor;
-$textcolor      : #333332;
+$textcolor      : #5a5a5a;
 $text-color     : $textcolor;
 $border-color   : $text-color;
 $basecolor 		  : #343434;	  

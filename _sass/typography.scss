@@ -8,8 +8,10 @@
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: $heading-font;
+    color: $heading-color;
 }
 h1 {
+    text-align: center;
 	@include font-size(32);
 }
 h2 {
@@ -135,7 +137,7 @@ p {
 	// sibling indentation
   @if $paragraph-indent == true {
     & + p {
-			text-indent: $indent-var;
+			text-indent: 0px;
 			margin-top: -($indent-var);
 		}
 	}
