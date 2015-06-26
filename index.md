@@ -1,9 +1,10 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: "Un blog sobre comida peruana en Costa Rica."
+tags: [aji, costa rica, peru, comida]
+
 image:
-  feature: sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: feature_cocina_peruana.jpg
+  credit: J. Leon
+  creditlink: 
 ---
