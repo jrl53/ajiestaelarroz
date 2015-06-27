@@ -20,7 +20,7 @@ Basicamente doña Giuly nos va a enseñar a cocinar y vamos a postear el proceso
 
 ***
 
-#Los personajes
+# Los personajes
 
 <div class="article-author-center">
     <figure>

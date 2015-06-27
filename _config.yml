@@ -9,7 +9,7 @@ url:
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: 
+ 
 sass:
   sass_dir: _sass
   style: compressed
@@ -22,6 +22,9 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   use_coderay: false
+  input: GFM
+  hard_wrap: false
+  
 
 
 
@@ -31,7 +34,7 @@ owner:
   avatar: bio_chino.jpg
   bio: "Me gusta la musica y la comida"
   email: josericardoleonlee@gmail.com
-  disqus-shortname: 
+  disqus-shortname: ajiestaelarroz
   twitter: jrl53
   facebook: #username
   google:
