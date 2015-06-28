@@ -38,6 +38,18 @@ Espero disfruten tanto como nosotros lo que estamos haciendo.
 
 <div class="article-author-center">
     <figure>
+        <img class="bio-photo"  src="{{ site.url }}/images/bio_tutti.jpg">
+    </figure>
+    <h3>Lucía Yglesias</h3>
+    <p>Sous-chef, copywriter, insivadora experta</p>
+</div>
+
+Soy una apasionada de la comida. Es mi tema preferido en cualquier conversación. Lo que sucede es que evoca en mí los mejores sentimientos de reuniones familiares donde el tema principal es “qué vamos a comer”. No por nada crecí en una familia peruana-italiana, que por cuestiones del destino vive en Costa Rica (mi patria querida). Para mí la comida y lo que le rodea es felicidad, compañía, risas, amigos y buenos ratos.
+ 
+La cocina me recuerda a los viajes (mi segunda pasión), pues permite transportarse y abrir el entendimiento no solo a nuevos sabores y colores, sino a todas las tradiciones que acompañan su preparación. Crecí viendo a mi madre cocinar, y sin duda alguna tengo a mi chef personal. Desde la escuela fui la envidia con mi lonchera, en la universidad todos querían ir a comer a mi casa y en el trabajo mi tan ansiada “lonchera gourmet”, como fue bautizada hace un tiempo, me acompaña. Por tal razón, hemos creado con un espacio para compartir algunos secretos, ¡porque no es justo que me deje todo para mí!
+
+<div class="article-author-center">
+    <figure>
         <img class="bio-photo"  src="{{ site.url }}/images/bio_chino.jpg">
     </figure>
     <h3>Jose R. León</h3>

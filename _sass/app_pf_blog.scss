@@ -1,0 +1,39 @@
+.nutrition {
+    border: 1px solid $heading-color;
+    margin-top: 3em;  
+}
+
+.nutrition-head {
+    border-bottom: 1px solid $heading-color; 
+   
+}
+
+.nutrition-body {
+    font-size: rem-calc(18);
+    padding: 1em;
+}
+
+
+.sublist-italic {
+    margin-top: 1rem;
+    font-style: italic;
+    font-size: 0.875rem;
+    text-transform: none;
+    font-weight: normal;
+    letter-spacing: 2px;
+}
+
+.nutrition-head .sublist-italic {
+    margin-top: 0;
+    padding-top: 0;
+    padding-bottom: 4em;
+}
+
+.italic {
+    font-style: italic;
+    font-size: 0.875rem;
+    letter-spacing: 2px;
+    font-family: $base-font;
+    font-weight: normal;
+    text-transform: lowercase;
+}
