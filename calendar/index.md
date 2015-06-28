@@ -5,7 +5,7 @@ excerpt: "El plan tentativo para cocinar cada semana"
 author: jose_leon
 tags: [calendario, actividades, ajiestaelarroz, semanas, comidas]
 image:
-  feature: feature_suspiro.jpg
+  feature: feature_pan.jpg
   credit: J. Leon
 comments: true
 ---
