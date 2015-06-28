@@ -41,7 +41,7 @@ Espero disfruten tanto como nosotros lo que estamos haciendo.
         <img class="bio-photo"  src="{{ site.url }}/images/bio_tutti.jpg">
     </figure>
     <h3>Lucía Yglesias</h3>
-    <p>Sous-chef, copywriter, insivadora experta</p>
+    <p>Sous-chef, copywriter, experta en postres</p>
 </div>
 
 Soy una apasionada de la comida. Es mi tema preferido en cualquier conversación. Lo que sucede es que evoca en mí los mejores sentimientos de reuniones familiares donde el tema principal es “qué vamos a comer”. No por nada crecí en una familia peruana-italiana, que por cuestiones del destino vive en Costa Rica (mi patria querida). Para mí la comida y lo que le rodea es felicidad, compañía, risas, amigos y buenos ratos.

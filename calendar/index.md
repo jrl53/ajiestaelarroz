@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Calendario de actividades"
 excerpt: "El plan tentativo para cocinar cada semana"
 author: jose_leon
@@ -9,6 +9,10 @@ image:
   credit: J. Leon
 comments: true
 ---
+> "Lo bueno, si breve, dos veces bueno"
+
+Bien lo deja claro esta frase de Baltasar Gracián. Vamos a tratar de hacer lo más que podemos con nuestro tiempo, teniendo en cuenta que puede que no sea mucho. Pero esto no le quita lo bueno. 
+
 Este es el calendario tentativo de actividades de _Aji está el arroz_ con sus respectivos platos e invitados especiales. 
 
 
