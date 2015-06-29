@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lomito saltado"
-excerpt: "Rico y fácil de hacer"
+excerpt: "Lo mejor de dos mundos"
 author: jose_leon
 tags: [lomito, saltado, chino, chifa, papas]
 image:
