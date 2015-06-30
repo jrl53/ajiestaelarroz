@@ -18,7 +18,7 @@ Este es el calendario tentativo de actividades de _Aji está el arroz_ con sus r
 
 | Receta | Fecha | Invitados |
 |:--------|:-------:|--------:|
-| Lomito saltado        | 06-13   | Lena y Gerardo   |
+| Lomito saltado        | 06-13   | Xime y Diego, Lena y Gerardo   |
 | Suspiro a la limeña   |    |    |
 |----
 | Ají de gallina        | 06-28   | Giani   |
