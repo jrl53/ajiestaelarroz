@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Suspiro a la limeña"
+title: "Suspiro a la Limeña"
 excerpt: "La primer receta de este clásico de los postres"
 author: lucia_yglesias
 tags: [suspiro, limena, postre]
