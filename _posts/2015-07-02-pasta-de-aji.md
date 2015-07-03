@@ -24,7 +24,7 @@ El ají amarillo (el que venden en Costa Rica) tiene un color naranja hermosísi
 
 #### Ingredientes
  
-* 8 ajíes amarillos crudos
+* 8 ajíes amarillos crudos ([¿Dónde se consiguen?](/faq))
 * Aceite de oliva
 * Sal
  

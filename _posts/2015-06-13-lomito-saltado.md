@@ -23,7 +23,7 @@ Uno de los platillos que tiene este signature Chino-Peruano es el lomito saltado
 * ½ kg de cebolla morada
 * ½ kg de tomate maduro  en cuartos
 * 1 kg de papas (preferiblemente amarillas)
-* 3 ajíes amarillos cortados en tiras finas
+* 3 ajíes amarillos cortados en tiras finas ([¿Dónde se consiguen?](/faq))
 * 6 cdas de salsa de soya
 * 2 cdas de culatro fresco picado
 * 1 pizca de comino en polvo
