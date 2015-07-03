@@ -33,7 +33,7 @@ No.
 
 *Así está el arroz* es una expresión muy tica, parecida a *así está la vara*. 
 
-En castellano un poco de latín se puede traducir a *éste es el status quo*. 
+En castellano con un poco de latín se puede traducir a *éste es el status quo*. 
 
 Decidimos combinar este tiquismo con el elemento por excelencia de la comida peruana, el ají, y crear nuestro nombre. Y para darle broche de oro, el arroz es parte íntegra de ambas cocinas. Como diría <a href="http://www.youtube.com/watch?v=45zwpVgJUWk&t=1m40s" target="_blank">Miguel Coto Coto</a>: "Vea ud que lindo me salio el el... el trillizo"
 

@@ -18,11 +18,11 @@ Este es el calendario tentativo de actividades de _Aji está el arroz_ con sus r
 
 | Receta | Fecha | Invitados |
 |:--------|:-------:|--------:|
-| Lomito saltado        | 06-13   | Xime y Diego, Lena y Gerardo   |
-| Suspiro a la limeña   |    |    |
+| [Lomito saltado](/lomito-saltado)        | 06-13   | Xime y Diego, Lena y Gerardo   |
+| [Suspiro a la limeña](/suspiro-limena)   |    |    |
 |----
 | Ají de gallina        | 06-28   | Giani   |
-| Ceviche peruano       |    |    |
+| [Ceviche peruano](/ceviche)       |    |    |
 |----
 | 
 | _Próximamente_
