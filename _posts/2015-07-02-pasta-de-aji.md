@@ -55,7 +55,7 @@ Corte hacia lo largo en dos cada **ají** y remueva las semillas de cada uno de 
     <a href="/images/post_pastaji_6.jpg"> <img src="/images/post_pastaji_6.jpg"> </a>
 	<a href="/images/post_pastaji_7.jpg"> <img src="/images/post_pastaji_7.jpg"> </a>
 	<a href="/images/post_pastaji_8.jpg"> <img src="/images/post_pastaji_8.jpg"> </a>
-	<figcaption>Abriendo el ají con guantes</figcaption>
+
 </figure>
 
 <figure>
