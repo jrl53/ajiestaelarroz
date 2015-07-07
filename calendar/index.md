@@ -24,7 +24,11 @@ Este es el calendario tentativo de actividades de _Aji está el arroz_ con sus r
 | Ají de gallina        | 06-28   | Giani   |
 | [Ceviche peruano](/ceviche)       |    |    |
 |----
-| 
+| Causa de camarón      | 07-05     | | |
+| Mayonesa | | | |
+| Salsa huancaína | | | |
+|----
+| | | | |
 | _Próximamente_
 | Anticucho
 | Aguadito
@@ -33,11 +37,8 @@ Este es el calendario tentativo de actividades de _Aji está el arroz_ con sus r
 | Causa
 | Ensalada de pallares
 | Pulpo al olivo
-| Papa a la huancaina
-| Mayonesa de aji
 | Chaufa
 | Chiles rellenos
-| Suspiro
 | Triple/Sanguchito de pollo con apio
 | Chicharron de calamar
 | Atún con tamarindo y coco

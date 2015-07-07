@@ -18,11 +18,9 @@ Excelente pregunta. Sabemos que muchas veces no cocinamos algún estilo de comid
 
 En Costa Rica hay una comunidad peruana que por años ha cocinado con ingredientes que se consiguen aquí o se pueden traer fácilmente. Al final del día la idea es hacer lo mejor que se pueda con lo que se tiene. 
 
-**Ají amarillo:** Auto Mercado ya está vendiendo ají amarillo en bolsas, en la sección de vegetales
-
-**Aceitunas moradas:** Hemos conseguido en Saretto
-
-**Pisco:** Auto Mercado y Saretto traen
+* **Ají amarillo:** Auto Mercado ya está vendiendo ají amarillo en bolsas, en la sección de vegetales. Saretto también tiene.
+* **Aceitunas moradas:** Hemos conseguido en Saretto
+* **Pisco:** Auto Mercado y Saretto traen
 
 Comenten abajo o en Facebook si saben de otros ingredientes que se consigan acá para tener una lista completa. Gracias.
 {: .notice}
